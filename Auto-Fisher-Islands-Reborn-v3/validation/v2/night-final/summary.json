@@ -1,0 +1,162 @@
+{
+  "frames": 1387,
+  "processing_seconds": 233.21,
+  "detections_in_frames": {
+    "player": 1387,
+    "rod": 1318,
+    "fish": 1175,
+    "bobber": 886,
+    "line_end": 1212
+  },
+  "events": [
+    {
+      "time": 4.2,
+      "action": "reel",
+      "metrics": {
+        "state": "WAITING",
+        "fish": 3,
+        "anchor_source": "none",
+        "stable_fish": true,
+        "motion": 0.2405,
+        "bright_change": 0.0111,
+        "edge_level": 0.0072,
+        "streak": 2,
+        "fish_near": true,
+        "compact_change": 0.0111,
+        "contrast_threshold": 13.15,
+        "vote_threshold": 0.00731,
+        "edge": 0.047,
+        "fish_dist": 337.5,
+        "next_state": "COOLDOWN",
+        "bobber": [
+          799,
+          686
+        ],
+        "anchor_verified": true,
+        "lighting": {
+          "scene_v": 108.0,
+          "scene_s": 105.0,
+          "gains_bgr": [
+            1.493,
+            1.389,
+            1.351
+          ],
+          "corrected": true,
+          "reference": "avatar"
+        }
+      }
+    },
+    {
+      "time": 13.3,
+      "action": "reel",
+      "metrics": {
+        "state": "WAITING",
+        "fish": 2,
+        "anchor_source": "bobber",
+        "stable_fish": true,
+        "motion": 0.0116,
+        "bright_change": 0.0327,
+        "edge_level": 0.0152,
+        "streak": 2,
+        "fish_near": true,
+        "compact_change": 0.032,
+        "contrast_threshold": 12.6,
+        "vote_threshold": 0.007,
+        "edge": 0.0522,
+        "fish_dist": 10.6,
+        "next_state": "COOLDOWN",
+        "bobber": [
+          837,
+          684
+        ],
+        "anchor_verified": true,
+        "lighting": {
+          "scene_v": 107.0,
+          "scene_s": 103.0,
+          "gains_bgr": [
+            1.504,
+            1.408,
+            1.37
+          ],
+          "corrected": true,
+          "reference": "avatar"
+        }
+      }
+    },
+    {
+      "time": 26.8,
+      "action": "reel",
+      "metrics": {
+        "state": "WAITING",
+        "fish": 3,
+        "anchor_source": "line-end",
+        "stable_fish": true,
+        "motion": 0.0075,
+        "bright_change": 0.0373,
+        "edge_level": 0.0147,
+        "streak": 2,
+        "fish_near": true,
+        "compact_change": 0.0372,
+        "contrast_threshold": 12.74,
+        "vote_threshold": 0.00708,
+        "edge": 0.0531,
+        "fish_dist": 8.6,
+        "next_state": "COOLDOWN",
+        "bobber": [
+          806,
+          684
+        ],
+        "anchor_verified": true,
+        "lighting": {
+          "scene_v": 107.0,
+          "scene_s": 102.0,
+          "gains_bgr": [
+            1.481,
+            1.408,
+            1.389
+          ],
+          "corrected": true,
+          "reference": "avatar"
+        }
+      }
+    },
+    {
+      "time": 56.4,
+      "action": "reel",
+      "metrics": {
+        "state": "WAITING",
+        "fish": 2,
+        "anchor_source": "line-end",
+        "stable_fish": true,
+        "motion": 0.0002,
+        "bright_change": 0.0231,
+        "edge_level": 0.017,
+        "streak": 2,
+        "fish_near": true,
+        "compact_change": 0.0225,
+        "contrast_threshold": 12.46,
+        "vote_threshold": 0.00692,
+        "edge": 0.0537,
+        "fish_dist": 9.2,
+        "next_state": "COOLDOWN",
+        "bobber": [
+          838,
+          678
+        ],
+        "anchor_verified": true,
+        "lighting": {
+          "scene_v": 107.0,
+          "scene_s": 102.0,
+          "gains_bgr": [
+            1.481,
+            1.408,
+            1.389
+          ],
+          "corrected": true,
+          "reference": "avatar"
+        }
+      }
+    }
+  ],
+  "note": "Observed video; reel events are predictions, not confirmed catches. No input was sent."
+}

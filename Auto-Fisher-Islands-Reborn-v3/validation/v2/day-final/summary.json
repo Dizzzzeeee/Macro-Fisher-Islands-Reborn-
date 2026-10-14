@@ -1,0 +1,88 @@
+{
+  "frames": 1360,
+  "processing_seconds": 181.82,
+  "detections_in_frames": {
+    "player": 1360,
+    "rod": 1305,
+    "fish": 1226,
+    "bobber": 1006,
+    "line_end": 1158
+  },
+  "events": [
+    {
+      "time": 11.5667,
+      "action": "reel",
+      "metrics": {
+        "state": "WAITING",
+        "fish": 3,
+        "anchor_source": "line-end",
+        "stable_fish": true,
+        "motion": 0.0013,
+        "bright_change": 0.0156,
+        "edge_level": 0.0016,
+        "streak": 2,
+        "fish_near": true,
+        "compact_change": 0.0155,
+        "contrast_threshold": 18.0,
+        "vote_threshold": 0.01,
+        "edge": 0.0552,
+        "fish_dist": 9.4,
+        "next_state": "COOLDOWN",
+        "bobber": [
+          820,
+          472
+        ],
+        "anchor_verified": true,
+        "lighting": {
+          "scene_v": 127.0,
+          "scene_s": 62.0,
+          "gains_bgr": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "corrected": false,
+          "reference": "avatar"
+        }
+      }
+    },
+    {
+      "time": 24.9333,
+      "action": "reel",
+      "metrics": {
+        "state": "WAITING",
+        "fish": 0,
+        "anchor_source": "none",
+        "stable_fish": true,
+        "motion": 0.0,
+        "bright_change": 0.0316,
+        "edge_level": -0.0041,
+        "streak": 2,
+        "fish_near": true,
+        "compact_change": 0.0253,
+        "contrast_threshold": 18.0,
+        "vote_threshold": 0.01,
+        "edge": 0.0827,
+        "fish_dist": null,
+        "next_state": "COOLDOWN",
+        "bobber": [
+          778,
+          454
+        ],
+        "anchor_verified": true,
+        "lighting": {
+          "scene_v": 127.0,
+          "scene_s": 62.0,
+          "gains_bgr": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "corrected": false,
+          "reference": "avatar"
+        }
+      }
+    }
+  ],
+  "note": "Observed video; reel events are predictions, not confirmed catches. No input was sent."
+}

@@ -1,0 +1,4351 @@
+{
+  "sampling": "1 frame/second across full new video; detector availability only, not correctness or catch success",
+  "before_v1": {
+    "frames": 139,
+    "player": 98,
+    "rod": 3,
+    "line": 0,
+    "bobber": 0,
+    "fish": 78
+  },
+  "after_v2": {
+    "frames": 139,
+    "player": 139,
+    "rod": 129,
+    "line": 123,
+    "bobber": 86,
+    "fish": 119
+  },
+  "rows_v2": [
+    {
+      "time": 0.0,
+      "player": [
+        623,
+        500,
+        77,
+        168
+      ],
+      "rod": [
+        [
+          733,
+          412,
+          687,
+          568
+        ]
+      ],
+      "line_end": [
+        800,
+        676
+      ],
+      "lighting": {
+        "scene_v": 108.0,
+        "scene_s": 105.0,
+        "gains_bgr": [
+          1.493,
+          1.379,
+          1.37
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 1.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          409,
+          687,
+          566
+        ]
+      ],
+      "line_end": [
+        790,
+        637
+      ],
+      "lighting": {
+        "scene_v": 108.0,
+        "scene_s": 105.0,
+        "gains_bgr": [
+          1.493,
+          1.379,
+          1.37
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 2.0,
+      "player": [
+        623,
+        498,
+        77,
+        170
+      ],
+      "rod": [
+        [
+          732,
+          407,
+          687,
+          565
+        ]
+      ],
+      "line_end": [
+        795,
+        657
+      ],
+      "lighting": {
+        "scene_v": 108.0,
+        "scene_s": 105.0,
+        "gains_bgr": [
+          1.493,
+          1.379,
+          1.37
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 3.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          409,
+          687,
+          566
+        ]
+      ],
+      "line_end": [
+        794,
+        654
+      ],
+      "lighting": {
+        "scene_v": 108.0,
+        "scene_s": 105.0,
+        "gains_bgr": [
+          1.493,
+          1.389,
+          1.351
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 4.0,
+      "player": [
+        623,
+        499,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          407,
+          686,
+          565
+        ]
+      ],
+      "line_end": [
+        795,
+        657
+      ],
+      "lighting": {
+        "scene_v": 108.0,
+        "scene_s": 105.0,
+        "gains_bgr": [
+          1.504,
+          1.399,
+          1.361
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 5.0,
+      "player": [
+        622,
+        498,
+        79,
+        169
+      ],
+      "rod": [
+        [
+          701,
+          394,
+          689,
+          559
+        ]
+      ],
+      "line_end": null,
+      "lighting": {
+        "scene_v": 108.0,
+        "scene_s": 105.0,
+        "gains_bgr": [
+          1.493,
+          1.389,
+          1.351
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 6.0,
+      "player": [
+        623,
+        498,
+        77,
+        170
+      ],
+      "rod": [
+        [
+          731,
+          407,
+          691,
+          567
+        ]
+      ],
+      "line_end": [
+        839,
+        671
+      ],
+      "lighting": {
+        "scene_v": 108.0,
+        "scene_s": 105.0,
+        "gains_bgr": [
+          1.504,
+          1.399,
+          1.351
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 7.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          409,
+          690,
+          567
+        ]
+      ],
+      "line_end": [
+        837,
+        675
+      ],
+      "lighting": {
+        "scene_v": 108.0,
+        "scene_s": 106.0,
+        "gains_bgr": [
+          1.504,
+          1.399,
+          1.361
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 8.0,
+      "player": [
+        623,
+        498,
+        78,
+        170
+      ],
+      "rod": [
+        [
+          731,
+          409,
+          687,
+          565
+        ]
+      ],
+      "line_end": [
+        837,
+        675
+      ],
+      "lighting": {
+        "scene_v": 108.0,
+        "scene_s": 106.0,
+        "gains_bgr": [
+          1.504,
+          1.399,
+          1.361
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 9.0,
+      "player": [
+        623,
+        498,
+        77,
+        170
+      ],
+      "rod": [
+        [
+          730,
+          406,
+          687,
+          566
+        ]
+      ],
+      "line_end": [
+        837,
+        675
+      ],
+      "lighting": {
+        "scene_v": 108.0,
+        "scene_s": 106.0,
+        "gains_bgr": [
+          1.504,
+          1.399,
+          1.361
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 10.0,
+      "player": [
+        623,
+        498,
+        78,
+        170
+      ],
+      "rod": [
+        [
+          731,
+          408,
+          689,
+          566
+        ]
+      ],
+      "line_end": [
+        837,
+        675
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 105.0,
+        "gains_bgr": [
+          1.504,
+          1.399,
+          1.361
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 11.0,
+      "player": [
+        621,
+        502,
+        77,
+        166
+      ],
+      "rod": [
+        [
+          731,
+          413,
+          687,
+          570
+        ]
+      ],
+      "line_end": [
+        837,
+        675
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 104.0,
+        "gains_bgr": [
+          1.504,
+          1.408,
+          1.37
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 12.0,
+      "player": [
+        621,
+        502,
+        77,
+        166
+      ],
+      "rod": [
+        [
+          731,
+          413,
+          689,
+          572
+        ]
+      ],
+      "line_end": [
+        830,
+        658
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 103.0,
+        "gains_bgr": [
+          1.504,
+          1.408,
+          1.37
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 13.0,
+      "player": [
+        621,
+        502,
+        77,
+        166
+      ],
+      "rod": [
+        [
+          730,
+          410,
+          685,
+          570
+        ]
+      ],
+      "line_end": [
+        827,
+        656
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 103.0,
+        "gains_bgr": [
+          1.504,
+          1.408,
+          1.37
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 14.0,
+      "player": [
+        606,
+        498,
+        88,
+        170
+      ],
+      "rod": [],
+      "line_end": null,
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 103.0,
+        "gains_bgr": [
+          1.481,
+          1.399,
+          1.361
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 15.0,
+      "player": [
+        610,
+        497,
+        92,
+        167
+      ],
+      "rod": [],
+      "line_end": null,
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 103.0,
+        "gains_bgr": [
+          1.481,
+          1.399,
+          1.361
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 16.0,
+      "player": [
+        621,
+        502,
+        77,
+        166
+      ],
+      "rod": [
+        [
+          730,
+          411,
+          688,
+          570
+        ]
+      ],
+      "line_end": [
+        806,
+        676
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.504,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 17.0,
+      "player": [
+        621,
+        502,
+        77,
+        166
+      ],
+      "rod": [
+        [
+          731,
+          413,
+          686,
+          570
+        ]
+      ],
+      "line_end": [
+        806,
+        676
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.504,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 18.0,
+      "player": [
+        621,
+        502,
+        77,
+        166
+      ],
+      "rod": [
+        [
+          732,
+          414,
+          684,
+          570
+        ]
+      ],
+      "line_end": [
+        806,
+        676
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.504,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 19.0,
+      "player": [
+        623,
+        498,
+        77,
+        170
+      ],
+      "rod": [
+        [
+          729,
+          411,
+          691,
+          568
+        ]
+      ],
+      "line_end": [
+        804,
+        677
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.493,
+          1.399,
+          1.379
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 20.0,
+      "player": [
+        623,
+        499,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          407,
+          689,
+          566
+        ]
+      ],
+      "line_end": [
+        806,
+        676
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.493,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 21.0,
+      "player": [
+        623,
+        498,
+        77,
+        170
+      ],
+      "rod": [
+        [
+          732,
+          410,
+          690,
+          568
+        ]
+      ],
+      "line_end": [
+        806,
+        675
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.493,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 22.0,
+      "player": [
+        623,
+        498,
+        77,
+        170
+      ],
+      "rod": [
+        [
+          731,
+          404,
+          690,
+          566
+        ]
+      ],
+      "line_end": [
+        806,
+        676
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.493,
+          1.399,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 23.0,
+      "player": [
+        622,
+        502,
+        77,
+        166
+      ],
+      "rod": [
+        [
+          731,
+          410,
+          685,
+          570
+        ]
+      ],
+      "line_end": [
+        806,
+        676
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 24.0,
+      "player": [
+        621,
+        502,
+        77,
+        166
+      ],
+      "rod": [
+        [
+          732,
+          416,
+          688,
+          570
+        ]
+      ],
+      "line_end": [
+        806,
+        676
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.493,
+          1.408,
+          1.399
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 25.0,
+      "player": [
+        621,
+        502,
+        77,
+        166
+      ],
+      "rod": [
+        [
+          731,
+          414,
+          690,
+          570
+        ]
+      ],
+      "line_end": [
+        806,
+        675
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.493,
+          1.408,
+          1.399
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 26.0,
+      "player": [
+        621,
+        502,
+        77,
+        166
+      ],
+      "rod": [
+        [
+          732,
+          415,
+          687,
+          570
+        ]
+      ],
+      "line_end": [
+        800,
+        656
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.493,
+          1.408,
+          1.399
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 27.0,
+      "player": [
+        623,
+        500,
+        78,
+        168
+      ],
+      "rod": [
+        [
+          755,
+          424,
+          697,
+          567
+        ]
+      ],
+      "line_end": [
+        802,
+        656
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 28.0,
+      "player": [
+        610,
+        496,
+        92,
+        169
+      ],
+      "rod": [],
+      "line_end": null,
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.399,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 29.0,
+      "player": [
+        623,
+        498,
+        77,
+        170
+      ],
+      "rod": [
+        [
+          732,
+          411,
+          690,
+          568
+        ]
+      ],
+      "line_end": [
+        830,
+        675
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.399
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 30.0,
+      "player": [
+        623,
+        498,
+        77,
+        170
+      ],
+      "rod": [
+        [
+          731,
+          408,
+          688,
+          566
+        ]
+      ],
+      "line_end": [
+        830,
+        675
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 31.0,
+      "player": [
+        623,
+        498,
+        77,
+        170
+      ],
+      "rod": [
+        [
+          733,
+          409,
+          690,
+          568
+        ]
+      ],
+      "line_end": [
+        830,
+        675
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.399
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 32.0,
+      "player": [
+        623,
+        499,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          411,
+          687,
+          566
+        ]
+      ],
+      "line_end": [
+        830,
+        675
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.399
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 33.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          410,
+          688,
+          566
+        ]
+      ],
+      "line_end": [
+        829,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 34.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          729,
+          411,
+          693,
+          566
+        ]
+      ],
+      "line_end": [
+        826,
+        672
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 35.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          733,
+          411,
+          694,
+          564
+        ]
+      ],
+      "line_end": [
+        828,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 36.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          749,
+          349,
+          700,
+          546
+        ]
+      ],
+      "line_end": [
+        829,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.399
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 37.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          413,
+          695,
+          563
+        ]
+      ],
+      "line_end": [
+        829,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 103.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.399
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 38.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          730,
+          406,
+          691,
+          566
+        ]
+      ],
+      "line_end": [
+        829,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 39.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          729,
+          411,
+          693,
+          566
+        ]
+      ],
+      "line_end": [
+        820,
+        656
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 103.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 40.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          410,
+          690,
+          567
+        ]
+      ],
+      "line_end": [
+        823,
+        656
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 103.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 41.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          734,
+          416,
+          693,
+          566
+        ]
+      ],
+      "line_end": [
+        820,
+        657
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 42.0,
+      "player": [
+        612,
+        496,
+        88,
+        169
+      ],
+      "rod": [],
+      "line_end": null,
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.399,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 43.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          730,
+          408,
+          693,
+          566
+        ]
+      ],
+      "line_end": [
+        838,
+        670
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 44.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          411,
+          695,
+          562
+        ]
+      ],
+      "line_end": [
+        838,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 45.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          731,
+          408,
+          689,
+          566
+        ]
+      ],
+      "line_end": [
+        838,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 103.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 46.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          731,
+          409,
+          690,
+          566
+        ]
+      ],
+      "line_end": [
+        838,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 103.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 47.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          733,
+          414,
+          693,
+          567
+        ]
+      ],
+      "line_end": [
+        838,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.399
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 48.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          733,
+          412,
+          698,
+          553
+        ]
+      ],
+      "line_end": [
+        839,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.399
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 49.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          412,
+          695,
+          562
+        ]
+      ],
+      "line_end": [
+        839,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 50.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          412,
+          695,
+          562
+        ]
+      ],
+      "line_end": [
+        838,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 51.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          730,
+          413,
+          687,
+          615
+        ]
+      ],
+      "line_end": [
+        836,
+        672
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.493,
+          1.408,
+          1.399
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 52.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          734,
+          415,
+          694,
+          564
+        ]
+      ],
+      "line_end": [
+        838,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 53.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          734,
+          414,
+          693,
+          566
+        ]
+      ],
+      "line_end": [
+        838,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 54.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          733,
+          412,
+          695,
+          562
+        ]
+      ],
+      "line_end": [
+        831,
+        652
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 55.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          733,
+          413,
+          697,
+          555
+        ]
+      ],
+      "line_end": [
+        829,
+        649
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 56.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          731,
+          408,
+          687,
+          565
+        ]
+      ],
+      "line_end": [
+        826,
+        650
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 57.0,
+      "player": [
+        612,
+        496,
+        83,
+        171
+      ],
+      "rod": [],
+      "line_end": null,
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.471,
+          1.399,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 58.0,
+      "player": [
+        623,
+        498,
+        77,
+        168
+      ],
+      "rod": [
+        [
+          731,
+          408,
+          692,
+          566
+        ]
+      ],
+      "line_end": [
+        815,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 59.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          733,
+          415,
+          693,
+          567
+        ]
+      ],
+      "line_end": [
+        814,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 60.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          412,
+          695,
+          562
+        ]
+      ],
+      "line_end": [
+        815,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 61.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          734,
+          415,
+          693,
+          566
+        ]
+      ],
+      "line_end": [
+        815,
+        672
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.399
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 62.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          733,
+          413,
+          695,
+          562
+        ]
+      ],
+      "line_end": [
+        815,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 63.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          412,
+          695,
+          562
+        ]
+      ],
+      "line_end": [
+        814,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 103.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 64.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          412,
+          695,
+          562
+        ]
+      ],
+      "line_end": [
+        815,
+        672
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 103.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 65.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          731,
+          406,
+          693,
+          566
+        ]
+      ],
+      "line_end": [
+        809,
+        656
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 66.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          730,
+          405,
+          687,
+          566
+        ]
+      ],
+      "line_end": [
+        811,
+        659
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 103.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.399
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 67.0,
+      "player": [
+        625,
+        500,
+        75,
+        167
+      ],
+      "rod": [
+        [
+          760,
+          415,
+          692,
+          568
+        ]
+      ],
+      "line_end": null,
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 68.0,
+      "player": [
+        623,
+        500,
+        86,
+        167
+      ],
+      "rod": [
+        [
+          699,
+          396,
+          704,
+          561
+        ]
+      ],
+      "line_end": null,
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 69.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          411,
+          694,
+          564
+        ]
+      ],
+      "line_end": [
+        806,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 70.0,
+      "player": [
+        623,
+        499,
+        77,
+        168
+      ],
+      "rod": [
+        [
+          731,
+          408,
+          692,
+          566
+        ]
+      ],
+      "line_end": [
+        807,
+        673
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.493,
+          1.408,
+          1.399
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 71.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          410,
+          687,
+          566
+        ]
+      ],
+      "line_end": [
+        806,
+        672
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 72.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          410,
+          694,
+          564
+        ]
+      ],
+      "line_end": [
+        806,
+        672
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.399
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 73.0,
+      "player": [
+        623,
+        500,
+        77,
+        167
+      ],
+      "rod": [
+        [
+          733,
+          414,
+          697,
+          555
+        ]
+      ],
+      "line_end": [
+        806,
+        672
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 74.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          410,
+          690,
+          566
+        ]
+      ],
+      "line_end": [
+        803,
+        661
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 75.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          412,
+          695,
+          562
+        ]
+      ],
+      "line_end": [
+        797,
+        651
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 76.0,
+      "player": [
+        614,
+        496,
+        85,
+        171
+      ],
+      "rod": [],
+      "line_end": null,
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.471,
+          1.399,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 77.0,
+      "player": [
+        630,
+        500,
+        81,
+        167
+      ],
+      "rod": [
+        [
+          772,
+          409,
+          709,
+          575
+        ]
+      ],
+      "line_end": null,
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 78.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          733,
+          415,
+          698,
+          554
+        ]
+      ],
+      "line_end": [
+        804,
+        673
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.399
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 79.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          409,
+          690,
+          566
+        ]
+      ],
+      "line_end": [
+        804,
+        673
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 80.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          731,
+          407,
+          692,
+          566
+        ]
+      ],
+      "line_end": [
+        804,
+        673
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 81.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          733,
+          416,
+          693,
+          567
+        ]
+      ],
+      "line_end": [
+        804,
+        673
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.493,
+          1.408,
+          1.399
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 82.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          731,
+          409,
+          692,
+          566
+        ]
+      ],
+      "line_end": [
+        804,
+        673
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 83.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          734,
+          417,
+          693,
+          566
+        ]
+      ],
+      "line_end": [
+        804,
+        673
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 84.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          733,
+          416,
+          693,
+          566
+        ]
+      ],
+      "line_end": [
+        804,
+        673
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 85.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          731,
+          408,
+          691,
+          566
+        ]
+      ],
+      "line_end": [
+        804,
+        673
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 86.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          733,
+          416,
+          699,
+          553
+        ]
+      ],
+      "line_end": [
+        800,
+        656
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 87.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          409,
+          692,
+          566
+        ]
+      ],
+      "line_end": [
+        798,
+        652
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 88.0,
+      "player": [
+        613,
+        496,
+        85,
+        171
+      ],
+      "rod": [],
+      "line_end": null,
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.471,
+          1.399,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 89.0,
+      "player": [
+        624,
+        499,
+        76,
+        168
+      ],
+      "rod": [
+        [
+          737,
+          414,
+          690,
+          568
+        ]
+      ],
+      "line_end": [
+        816,
+        652
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 90.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          731,
+          408,
+          688,
+          566
+        ]
+      ],
+      "line_end": [
+        808,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 91.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          733,
+          415,
+          693,
+          566
+        ]
+      ],
+      "line_end": [
+        808,
+        672
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.399
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 92.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          733,
+          413,
+          695,
+          562
+        ]
+      ],
+      "line_end": [
+        808,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 93.0,
+      "player": [
+        623,
+        499,
+        77,
+        168
+      ],
+      "rod": [
+        [
+          733,
+          416,
+          693,
+          567
+        ]
+      ],
+      "line_end": [
+        808,
+        672
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.399
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 94.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          734,
+          416,
+          693,
+          566
+        ]
+      ],
+      "line_end": [
+        808,
+        672
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 95.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          733,
+          413,
+          695,
+          562
+        ]
+      ],
+      "line_end": [
+        808,
+        672
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 96.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          733,
+          415,
+          692,
+          567
+        ]
+      ],
+      "line_end": [
+        808,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 97.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          731,
+          406,
+          691,
+          566
+        ]
+      ],
+      "line_end": [
+        808,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 98.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          412,
+          695,
+          562
+        ]
+      ],
+      "line_end": [
+        808,
+        672
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 99.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          412,
+          695,
+          563
+        ]
+      ],
+      "line_end": [
+        808,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 100.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          411,
+          688,
+          566
+        ]
+      ],
+      "line_end": [
+        809,
+        674
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.399
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 101.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          731,
+          407,
+          689,
+          566
+        ]
+      ],
+      "line_end": [
+        802,
+        653
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 102.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          733,
+          415,
+          693,
+          566
+        ]
+      ],
+      "line_end": [
+        801,
+        647
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.399,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 103.0,
+      "player": [
+        606,
+        496,
+        90,
+        171
+      ],
+      "rod": [],
+      "line_end": null,
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 103.0,
+        "gains_bgr": [
+          1.471,
+          1.399,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 104.0,
+      "player": [
+        621,
+        498,
+        92,
+        169
+      ],
+      "rod": [
+        [
+          708,
+          391,
+          705,
+          560
+        ]
+      ],
+      "line_end": null,
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 103.0,
+        "gains_bgr": [
+          1.471,
+          1.399,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 105.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          733,
+          413,
+          698,
+          554
+        ]
+      ],
+      "line_end": [
+        831,
+        661
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 103.0,
+        "gains_bgr": [
+          1.471,
+          1.399,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 106.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          734,
+          415,
+          693,
+          566
+        ]
+      ],
+      "line_end": [
+        830,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 103.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 107.0,
+      "player": [
+        623,
+        498,
+        77,
+        168
+      ],
+      "rod": [
+        [
+          733,
+          412,
+          695,
+          562
+        ]
+      ],
+      "line_end": [
+        830,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 103.0,
+        "gains_bgr": [
+          1.471,
+          1.399,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 108.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          733,
+          413,
+          698,
+          553
+        ]
+      ],
+      "line_end": [
+        830,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 103.0,
+        "gains_bgr": [
+          1.481,
+          1.399,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 109.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          409,
+          687,
+          566
+        ]
+      ],
+      "line_end": [
+        829,
+        670
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 103.0,
+        "gains_bgr": [
+          1.471,
+          1.399,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 110.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          734,
+          416,
+          695,
+          562
+        ]
+      ],
+      "line_end": [
+        830,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 103.0,
+        "gains_bgr": [
+          1.481,
+          1.399,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 111.0,
+      "player": [
+        623,
+        499,
+        77,
+        168
+      ],
+      "rod": [
+        [
+          732,
+          410,
+          687,
+          566
+        ]
+      ],
+      "line_end": [
+        830,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 103.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 112.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          733,
+          414,
+          693,
+          567
+        ]
+      ],
+      "line_end": [
+        830,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 103.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 113.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          733,
+          413,
+          698,
+          553
+        ]
+      ],
+      "line_end": [
+        829,
+        670
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 103.0,
+        "gains_bgr": [
+          1.471,
+          1.399,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 114.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          734,
+          414,
+          693,
+          566
+        ]
+      ],
+      "line_end": [
+        830,
+        670
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 115.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          733,
+          412,
+          697,
+          555
+        ]
+      ],
+      "line_end": [
+        830,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.493,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 116.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          411,
+          694,
+          564
+        ]
+      ],
+      "line_end": [
+        830,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 117.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          734,
+          415,
+          693,
+          566
+        ]
+      ],
+      "line_end": [
+        830,
+        670
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.481,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 118.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          412,
+          694,
+          564
+        ]
+      ],
+      "line_end": [
+        830,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.493,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 119.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          733,
+          412,
+          695,
+          563
+        ]
+      ],
+      "line_end": [
+        823,
+        654
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.493,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 120.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          410,
+          687,
+          565
+        ]
+      ],
+      "line_end": [
+        823,
+        654
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.493,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 121.0,
+      "player": [
+        601,
+        495,
+        95,
+        172
+      ],
+      "rod": [],
+      "line_end": null,
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.471,
+          1.399,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 122.0,
+      "player": [
+        625,
+        499,
+        76,
+        168
+      ],
+      "rod": [
+        [
+          740,
+          408,
+          691,
+          560
+        ]
+      ],
+      "line_end": [
+        798,
+        618
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.493,
+          1.399,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 123.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          733,
+          414,
+          698,
+          554
+        ]
+      ],
+      "line_end": [
+        811,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.493,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 124.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          410,
+          693,
+          566
+        ]
+      ],
+      "line_end": [
+        811,
+        672
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.504,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 125.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          733,
+          414,
+          693,
+          566
+        ]
+      ],
+      "line_end": [
+        811,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.504,
+          1.408,
+          1.399
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 126.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          411,
+          688,
+          566
+        ]
+      ],
+      "line_end": [
+        811,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.504,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 127.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          731,
+          407,
+          689,
+          566
+        ]
+      ],
+      "line_end": [
+        811,
+        672
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.504,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 128.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          734,
+          416,
+          693,
+          566
+        ]
+      ],
+      "line_end": [
+        811,
+        672
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.504,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 129.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          733,
+          416,
+          693,
+          566
+        ]
+      ],
+      "line_end": [
+        811,
+        672
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.493,
+          1.399,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 130.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          733,
+          413,
+          697,
+          555
+        ]
+      ],
+      "line_end": [
+        811,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.504,
+          1.408,
+          1.399
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 131.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          733,
+          415,
+          693,
+          566
+        ]
+      ],
+      "line_end": [
+        811,
+        671
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.504,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 132.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          412,
+          695,
+          562
+        ]
+      ],
+      "line_end": [
+        811,
+        672
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.504,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 133.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          412,
+          694,
+          563
+        ]
+      ],
+      "line_end": [
+        809,
+        663
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.504,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 134.0,
+      "player": [
+        623,
+        498,
+        77,
+        168
+      ],
+      "rod": [
+        [
+          731,
+          408,
+          689,
+          566
+        ]
+      ],
+      "line_end": [
+        808,
+        659
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.504,
+          1.408,
+          1.399
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 135.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          410,
+          700,
+          547
+        ]
+      ],
+      "line_end": [
+        807,
+        659
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.504,
+          1.408,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 136.0,
+      "player": [
+        623,
+        498,
+        77,
+        169
+      ],
+      "rod": [
+        [
+          732,
+          411,
+          695,
+          562
+        ]
+      ],
+      "line_end": [
+        807,
+        659
+      ],
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.504,
+          1.408,
+          1.399
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 137.0,
+      "player": [
+        608,
+        496,
+        87,
+        171
+      ],
+      "rod": [],
+      "line_end": null,
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.493,
+          1.399,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    },
+    {
+      "time": 138.0,
+      "player": [
+        621,
+        498,
+        92,
+        169
+      ],
+      "rod": [
+        [
+          710,
+          390,
+          707,
+          560
+        ]
+      ],
+      "line_end": null,
+      "lighting": {
+        "scene_v": 107.0,
+        "scene_s": 102.0,
+        "gains_bgr": [
+          1.493,
+          1.399,
+          1.389
+        ],
+        "corrected": true,
+        "reference": "avatar"
+      }
+    }
+  ]
+}

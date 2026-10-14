@@ -1,0 +1,40 @@
+[
+  {
+    "clip": "night",
+    "seconds_checked": 5,
+    "sample_fps": 30,
+    "frames": 151,
+    "events": [
+      {
+        "time": 3.9,
+        "action": "reel"
+      }
+    ],
+    "simulated_cached_events": [
+      {
+        "time": 3.8833,
+        "action": "reel"
+      }
+    ],
+    "simulation_note": "10Hz cached geometry, synthetic 80ms scan delay, 60Hz checks on duplicated 30FPS video; not a live benchmark."
+  },
+  {
+    "clip": "day",
+    "seconds_checked": 12,
+    "sample_fps": 30,
+    "frames": 361,
+    "events": [
+      {
+        "time": 11.5667,
+        "action": "reel"
+      }
+    ],
+    "simulated_cached_events": [
+      {
+        "time": 11.55,
+        "action": "reel"
+      }
+    ],
+    "simulation_note": "10Hz cached geometry, synthetic 80ms scan delay, 60Hz checks on duplicated 30FPS video; not a live benchmark."
+  }
+]

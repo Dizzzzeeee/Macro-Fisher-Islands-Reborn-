@@ -1,0 +1,30 @@
+usage: main.py [-h] [--no-adaptive-lighting] [--config CONFIG]
+               [--enable-clicks] [--no-click] [--no-view] [--window WINDOW]
+               [--mode {window,monitor}] [--monitor MONITOR] [--region REGION]
+               [--fps FPS] [--vision-fps VISION_FPS]
+               [--overlay-fps OVERLAY_FPS] [--sync-vision] [--aim AIM]
+               [--list-windows] [--log LOG]
+
+Windows screen-only fishing assistant. Dry-run by default; F8 arms, F9 stops.
+
+options:
+  -h, --help            show this help message and exit
+  --no-adaptive-lighting
+                        disable automatic exposure/color correction
+  --config CONFIG       JSON calibration profile
+  --enable-clicks       allow mouse input; still starts paused
+  --no-click            explicit vision-only mode (the default)
+  --no-view
+  --window WINDOW       unique game window title substring
+  --mode {window,monitor}
+  --monitor MONITOR
+  --region REGION       screen-pixel x,y,width,height; dry-run only
+  --fps FPS             target fresh-frame/bite loop FPS
+  --vision-fps VISION_FPS
+                        background full-scene scans per second (5..30)
+  --overlay-fps OVERLAY_FPS
+                        maximum overlay redraw FPS
+  --sync-vision         v2-style blocking full-scene loop for troubleshooting
+  --aim AIM             cast aim as normalized x,y fractions (e.g. 0.64,0.70)
+  --list-windows
+  --log LOG

@@ -1,0 +1,31 @@
+{
+  "bite_relative_jump": 0.01,
+  "bite_confirm_frames": 2,
+  "cast_settle_s": 0.8,
+  "bite_timeout_s": 45.0,
+  "bite_roi_radius": 40,
+  "bite_fish_px": 90,
+  "colors": {
+    "fish_v_max": 100,
+    "fish_min_area": 300,
+    "fish_max_area": 30000,
+    "water_h_low": 20,
+    "water_h_high": 85,
+    "water_s_low": 15,
+    "water_s_high": 110,
+    "water_v_low": 90,
+    "water_v_high": 245,
+    "rod_h_low": 4,
+    "rod_h_high": 24,
+    "rod_s_min": 35,
+    "rod_v_min": 30,
+    "rod_v_max": 235
+  },
+  "pond_roi": [
+    0.55,
+    0.44,
+    0.42,
+    0.4
+  ],
+  "adaptive_lighting": true
+}

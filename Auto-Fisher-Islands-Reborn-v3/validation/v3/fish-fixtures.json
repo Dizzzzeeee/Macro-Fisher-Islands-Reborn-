@@ -1,0 +1,125 @@
+[
+  {
+    "fixture": "gameplay_00",
+    "before_centers": [
+      [
+        1115,
+        461
+      ],
+      [
+        1189,
+        402
+      ]
+    ],
+    "after_centers": [
+      [
+        1189,
+        402
+      ]
+    ],
+    "rod_kept": true,
+    "line_visible_now": false
+  },
+  {
+    "fixture": "gameplay_09",
+    "before_centers": [
+      [
+        785,
+        348
+      ],
+      [
+        842,
+        479
+      ],
+      [
+        943,
+        332
+      ],
+      [
+        704,
+        434
+      ]
+    ],
+    "after_centers": [
+      [
+        842,
+        479
+      ],
+      [
+        943,
+        332
+      ]
+    ],
+    "rod_kept": true,
+    "line_visible_now": true
+  },
+  {
+    "fixture": "gameplay_21",
+    "before_centers": [
+      [
+        885,
+        423
+      ]
+    ],
+    "after_centers": [
+      [
+        885,
+        423
+      ]
+    ],
+    "rod_kept": true,
+    "line_visible_now": true
+  },
+  {
+    "fixture": "night_000",
+    "before_centers": [
+      [
+        779,
+        613
+      ]
+    ],
+    "after_centers": [
+      [
+        779,
+        613
+      ]
+    ],
+    "rod_kept": true,
+    "line_visible_now": true
+  },
+  {
+    "fixture": "night_040",
+    "before_centers": [
+      [
+        823,
+        676
+      ],
+      [
+        190,
+        496
+      ]
+    ],
+    "after_centers": [
+      [
+        823,
+        676
+      ]
+    ],
+    "rod_kept": true,
+    "line_visible_now": true
+  },
+  {
+    "fixture": "night_080",
+    "before_centers": [],
+    "after_centers": [],
+    "rod_kept": true,
+    "line_visible_now": true
+  },
+  {
+    "fixture": "night_130",
+    "before_centers": [],
+    "after_centers": [],
+    "rod_kept": true,
+    "line_visible_now": true
+  }
+]
